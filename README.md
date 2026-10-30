@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Headless E-Commerce & Retail Storefront
 
 A high-performance, server-rendered e-commerce web application built with **React, Next.js App Router, Tailwind CSS, and Wix Headless SDK**. Designed for optimized performance, server actions, dynamic product catalog management, and seamless cart/checkout workflows.
